@@ -24,7 +24,7 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/01-github-explorer?color=56BEB8" /> -->
 </p>
 
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -91,4 +91,4 @@ Made with :heart: by <a href="https://github.com/leon-carvalho" target="_blank">
 
 &#xa0;
 
-<a href="#top">Back to top</a>
+<a href="#top">Back to top :top: </a>

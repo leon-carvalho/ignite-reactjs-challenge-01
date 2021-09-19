@@ -9,19 +9,19 @@
 <h1 align="center">Ignite React.js Challenge 01</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/01-github-explorer?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/leon-carvalho/ignite-reactjs-challenge-01?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/01-github-explorer?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/leon-carvalho/ignite-reactjs-challenge-01?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/01-github-explorer?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/leon-carvalho/ignite-reactjs-challenge-01?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/01-github-explorer?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/leon-carvalho/ignite-reactjs-challenge-01?color=56BEB8">
 
-  <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/01-github-explorer?color=56BEB8" />
+  <img alt="Github issues" src="https://img.shields.io/github/issues/leon-carvalho/ignite-reactjs-challenge-01?color=56BEB8" />
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/01-github-explorer?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/leon-carvalho/ignite-reactjs-challenge-01?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/01-github-explorer?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/leon-carvalho/ignite-reactjs-challenge-01?color=56BEB8" /> -->
 </p>
 
 <hr>

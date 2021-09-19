@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="01 Github Explorer" />
+  <img src="./docs/desktop.png" alt="Task list with 4 items one of them was completed">
 
   &#xa0;
 
@@ -24,12 +24,6 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/01-github-explorer?color=56BEB8" /> -->
 </p>
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  01 Github Explorer 🚀 Under construction...  🚧
-</h4> 
-
 <hr> -->
 
 <p align="center">
@@ -48,8 +42,7 @@
 
 Solution for the first challenge of Rocketseat's Ignite Bootcamp.
 
-<img src="./docs/desktop.png" alt="Task list with 4 items one of them was completed">
-
+You can find the challenge description here (Only in Portuguese): [ignite-challenge-01-reactjs](https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d#a488198f893444699a589b3efdaa1c30)
 ## :sparkles: Features ##
 
 :heavy_check_mark:Add task to list;\

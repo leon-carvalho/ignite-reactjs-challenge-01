@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, FormEvent } from 'react'
 
 import '../styles/tasklist.scss'
 
@@ -14,7 +14,8 @@ export function TaskList() {
   const [tasks, setTasks] = useState<Task[]>([]);
   const [newTaskTitle, setNewTaskTitle] = useState('');
 
-  function handleCreateNewTask() {
+  function handleCreateNewTask(e: FormEvent) {
+    e.preventDefault()
     // Crie uma nova task com um id random, não permita criar caso o título seja vazio.
     if(!newTaskTitle) return;
 
@@ -43,17 +44,17 @@ export function TaskList() {
       <header>
         <h2>Minhas tasks</h2>
 
-        <div className="input-group">
+        <form className="input-group" onSubmit={handleCreateNewTask}>
           <input 
             type="text" 
             placeholder="Adicionar novo todo" 
             onChange={(e) => setNewTaskTitle(e.target.value)}
             value={newTaskTitle}
           />
-          <button type="submit" data-testid="add-task-button" onClick={handleCreateNewTask}>
+          <button type="submit" data-testid="add-task-button">
             <FiCheckSquare size={16} color="#fff"/>
           </button>
-        </div>
+        </form>
       </header>
 
       <main>
